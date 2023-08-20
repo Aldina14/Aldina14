@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aldina
 - 👀 I’m interested in learning a JavaScript and enroll in IT-University
 - 🌱 I’m currently learning in 10th grade
-- 💞️ I’m looking to collaborate on project with GitHub
+- 💞️ I’m looking to collaborate on the project with GitHub
 - 📫 How to reach me, my gmail aldinaruslanova03@gmail.com
 
 <!---
